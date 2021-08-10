@@ -1,6 +1,6 @@
 # elasticsearch-pywrap
 
-A general purpose elasticsearch wrapper class on top of Python Elasticsearch Client. The class methods are designed to quickly create/manage indices along with aliases across environemnts.
+A general purpose elasticsearch wrapper class on top of Python Elasticsearch Client. The class methods are designed to quickly create/manage indices along with aliases across environments.
 
 Many high level tasks such as searching, reindexing, mapping can be achieved via single script calling class methods in sequence.
 
